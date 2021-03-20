@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <video autoPlay="true" src={ videoUrl } type="video/mp4">
+        <video autoPlay src={ videoUrl } >
 
         </video>
       </header>
