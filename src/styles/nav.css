@@ -1,0 +1,24 @@
+nav.page-nav {
+    text-align: right;
+    flex-grow: 1;
+}
+
+nav.page-nav .container {
+    display: inline-block;
+}
+
+nav.page-nav a {
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    padding: 20px 10px;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px;
+}
+
+#active {
+    color: #000;
+}
+
+nav.page-nav a:hover {
+    color: #000;
+}

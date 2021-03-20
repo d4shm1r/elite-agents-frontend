@@ -1,0 +1,15 @@
+header.page-header {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+}
+
+header.page-header p {
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+header.page-header span {
+    font-weight: 600;
+}
